@@ -73,7 +73,8 @@ Contact form AJAX submission & success popup with sound
 
 🖼 Screenshots
 
-![Home Screenshot](https://raw.githubusercontent.com/shahabudeen-h/My-Portfolio/main/assets/images/screenshot_home.png)
+![About & Skills Screenshot](assets/images/screenshot_about_skills.png)
+
 
 
 
