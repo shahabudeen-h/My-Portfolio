@@ -73,9 +73,10 @@ Contact form AJAX submission & success popup with sound
 
 🖼 Screenshots
 
-Add screenshots to assets/images/ and reference them here:
-
-
+![Home Screenshot](assets/images/screenshot_home.png)
+![Projects Screenshot](assets/images/screenshot_projects.png)
+![Contact Screenshot](assets/images/contact_home.png)
+![About & Skills Screenshot](assets/images/screenshot_about&skills.png)
 
 
 👤 Author
