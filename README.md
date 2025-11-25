@@ -73,9 +73,10 @@ Contact form AJAX submission & success popup with sound
 
 🖼 Screenshots
 
+![Home Screenshot](assets/images/screenshot_home.png)
+![Projects Screenshot](assets/images/screenshot_projects.png)
+![Contact Screenshot](assets/images/contact_home.png)
 ![About & Skills Screenshot](assets/images/screenshot_about_skills.png)
-
-
 
 
 👤 Author
