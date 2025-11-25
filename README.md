@@ -42,7 +42,7 @@ my-portfolio/
 ├─ script.js # JS for smooth scroll, navbar, form popup
 ├─ assets/
 │ ├─ new-notification-010-352755.mp3 # Popup sound
-│ └─ images/ # Optional images/screenshots
+│ └─ images/ images/screenshots
 ├─ README.md # This file
 └─ LICENSE # MIT License
 
